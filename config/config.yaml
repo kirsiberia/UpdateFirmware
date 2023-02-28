@@ -1,0 +1,5 @@
+login_redmine: 'sergej.aksyonov'
+password_redmine: 'ifh2IGXj'
+serial_device: 'ttyUSB0'
+tftp_path: '/tftp/'
+ip_tftp: '192.168.1.5'
